@@ -26,7 +26,7 @@ require (
 	github.com/knadh/paginator/v2 v2.0.3
 	github.com/knadh/smtppool/v2 v2.2.1
 	github.com/knadh/stuffbin v1.3.0
-	github.com/labstack/echo/v5 v5.4.0
+	github.com/labstack/echo/v5 v5.4.1
 	github.com/lib/pq v1.12.3
 	github.com/paulbellamy/ratecounter v0.2.0
 	github.com/pquerna/otp v1.5.0
@@ -48,7 +48,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.5.0 // indirect
 	github.com/boombuler/barcode v1.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.10.1 // indirect
-	github.com/go-jose/go-jose/v4 v4.1.5 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.6 // indirect
 	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/huandu/xstrings v1.6.2 // indirect
